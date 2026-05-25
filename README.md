@@ -1,18 +1,16 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
 
-<p align="center">
-Estudiante avanzado de Sistemas · Analista en formación · IT Support & Web Dev
-</p>
+
+Soy un desarrollador orientado al **análisis funcional** y a la **construcción de software**. Mi enfoque se basa en la **resolución estructurada** de problemas, diseñando arquitecturas claras y escalables. Paralelamente, confío plenamente en el valor del **trabajo en equipo** como el pilar fundamental para construir productos digitales sólidos e innovadores. Disfruto aprendiendo nuevas tecnologías y aplicarlas en mis proyectos.
+
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#)
 
-<h3>👨‍💻 Sobre mí</h3>
+<h3>🎓 Formación</h3>
 
-- 🎓 **Licenciatura en Sistemas de Información** — 60% aprobado  
-- 🎓 **Técnico Analista de Sistemas** — 96% aprobado  
-- 🧠 Perfil técnico con base en **soporte IT, análisis y desarrollo web**  
-- 🔧 Experiencia práctica en hardware, sistemas operativos y resolución de problemas  
+-  **Licenciatura en Sistemas de Información** — 60% aprobado  
+- ✅​ **Técnico Analista de Sistemas**   
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#)
@@ -48,8 +46,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#)
 
-<h3>🚀 En qué estoy trabajando</h3>
 
-- Proyecto final: **Sistema web inmobiliario** (React + Next.js + BD)
-- Fortaleciendo perfil en **Soporte IT / Help Desk** y **Análisis de Sistemas**
 
