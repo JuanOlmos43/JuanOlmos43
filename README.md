@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <h3>🎓 Formación</h3>
 
--  **Licenciatura en Sistemas de Información** — 60% aprobado  
+- ⌛**Licenciatura en Sistemas de Información** — 69% aprobado  
 - ✅​ **Técnico Analista de Sistemas**   
 
 [![-----------------------------------------------------](
